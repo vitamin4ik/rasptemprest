@@ -1,0 +1,11 @@
+Package: rasptemprest
+Version: 0.1.1
+Section: misc
+Priority: optional
+Architecture: any
+Depends: tomcat7, openjdk-6-jre | sun-java6-jre
+Maintainer: Vitaliy Minayev <vitamis777@tut.by>
+Distribution: ldstack-nightly
+Homepage: http://www.yourwebsite.com/
+Description: Rest service to get Raspberry Pi core temperature
+  It's Raspberry Pi core temp monitoring REST service. It's implemented as web application for Tomcat.

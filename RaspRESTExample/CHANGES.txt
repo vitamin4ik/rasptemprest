@@ -1,0 +1,3 @@
+release date=11:00 15.03.2016,version=0.1.1,urgency=low,by=Vitaliy Minayev <vitamis777@tut.by>,distribution=ldstack-nightly
+ * First version
+ * This is an example of Rest service for RPi to measure and show core temp
