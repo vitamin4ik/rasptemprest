@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Tue, 15 Mar 2016 12:40:13 +0200
+Source: rasptemprest
+Binary: rasptemprest
+Architecture: any
+Version: 0.1.1
+Distribution: ldstack-nightly
+Urgency: low
+Maintainer: Vitaliy Minayev <vitamis777@tut.by>
+Changed-By: Vitaliy Minayev <vitamis777@tut.by>
+Description:
+ rasptemprest - Rest service to get Raspberry Pi core temperature
+Changes:
+ rasptemprest (0.1.1) ldstack-nightly; urgency=low
+ .
+   * First version
+   * This is an example of Rest service for RPi to measure and show core temp
+Checksums-Sha1:
+ 7dd50f35bbccf05466f7716641f6535dbb8d31a6 2554768 RaspRESTExample_0.1.1_all.deb
+Checksums-Sha256:
+ 9737a16e0d5c7bf808c21a6f90538448b81b7f45a9c1d20eb481fb342498381d 2554768 RaspRESTExample_0.1.1_all.deb
+Files:
+ ea1add7862e8b26d9165d01579152b16 2554768 misc optional RaspRESTExample_0.1.1_all.deb
